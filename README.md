@@ -1,7 +1,7 @@
-#packMan
+#watpac
 =======
 
-Find the packages your looking for in any web package manager
+Find the packages your looking for in any web package manager.
 
 
 ##Registries
